@@ -15,6 +15,6 @@
 ## 🌱 Aqui estão algumas tecnologias que estou trabalhando:
 
 <div>
-    <img src=" https://skillicons.dev/icons?i=html,css,mysql,postman,javascript,selenium">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,postman,javascript,selenium">
     
 </div>
